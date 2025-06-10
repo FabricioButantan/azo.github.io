@@ -5,6 +5,7 @@
   font-weight: normal;
   font-style: normal;
 }
+
 @font-face {
   font-family: 'AzoSans Bold';
   src:
@@ -12,6 +13,7 @@
   font-weight: bold;
   font-style: normal;
 }
+
 @font-face {
   font-family: 'AzoSans Italic';
   src:
@@ -19,6 +21,7 @@
   font-weight: normal;
   font-style: italic;
 }
+
 @font-face {
   font-family: 'AzoSans BoldItalic';
   src:
