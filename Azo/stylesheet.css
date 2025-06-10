@@ -1,33 +1,30 @@
 @font-face {
-  font-family: 'AzoSans';
-  src:
-    url('https://fabriciobutantan.github.io/azo.github.io/Azo/AzoSans-Regular.otf') format('opentype');
-  font-weight: normal;
-  font-style: normal;
-}
+    font-family: 'AzoSans';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url ('https://fabriciobutantan.github.io/azo.github.io/Azo/AzoSans-Regular.otf') format('opentype');
+  
+@font-face {
+    font-family: 'AzoSans';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url ('https://fabriciobutantan.github.io/azo.github.io/Azo/AzoSans-Bold.otf') format('opentype');
+  
+@font-face {
+    font-family: 'AzoSans';
+    font-style: italic;
+    font-weight: 400;
+    font-display: swap;
+    src: url ('https://fabriciobutantan.github.io/azo.github.io/Azo/AzoSans-Italic.otf') format('opentype');
 
 @font-face {
-  font-family: 'AzoSans Bold';
-  src:
-    url('https://fabriciobutantan.github.io/azo.github.io/Azo/AzoSans-Bold.otf') format('opentype');
-  font-weight: bold;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: 'AzoSans Italic';
-  src:
-    url('https://fabriciobutantan.github.io/azo.github.io/Azo/AzoSans-Italic.otf') format('opentype');
-  font-weight: normal;
-  font-style: italic;
-}
-
-@font-face {
-  font-family: 'AzoSans BoldItalic';
-  src:
-    url('https://fabriciobutantan.github.io/azo.github.io/Azo/AzoSans-BoldItalic.otf') format('opentype');
-  font-weight: bold;
-  font-style: italic;
+    font-family: 'AzoSans';
+    font-style: italic;
+    font-weight: 700;
+    font-display: swap;
+    src: url ('https://fabriciobutantan.github.io/azo.github.io/Azo/AzoSans-Italic.otf') format('opentype');
 }
 /*
     url('https://<yourserver>/path/to/font.woff2') format('woff2'),
