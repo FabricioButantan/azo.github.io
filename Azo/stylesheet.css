@@ -5,7 +5,20 @@
   font-weight: normal;
   font-style: normal;
 }
-
+@font-face {
+  font-family: 'AzoSans Bold';
+  src:
+    url('https://fabriciobutantan.github.io/azo.github.io/Azo/AzoSans-Bold.otf') format('opentype');
+  font-weight: bold;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'AzoSans Italic';
+  src:
+    url('https://fabriciobutantan.github.io/azo.github.io/Azo/AzoSans-Italic.otf') format('opentype');
+  font-weight: normal;
+  font-style: italic;
+}
 /*
     url('https://<yourserver>/path/to/font.woff2') format('woff2'),
     url('https://<yourserver>/path/to/font.woff') format('woff'),
